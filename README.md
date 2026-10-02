@@ -1,16 +1,64 @@
-## Hi there 👋
+# Hi, I'm Rama 👋
 
-<!--
-**ramabwana886-arch/ramabwana886-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 4th-Year Artificial Intelligence Student
 
-Here are some ideas to get you started:
+🤖 Interested in Deep Learning, NLP, Computer Vision & LLMs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Building AI systems that turn research ideas into practical applications.
+
+---
+
+## 🚀 What I'm Working On
+
+- Deep Learning
+- Computer Vision
+- NLP & Transformers
+- Large Language Models
+- RAG & Agentic AI
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Frameworks**
+- Python
+- PyTorch
+- TensorFlow
+- Scikit-learn
+
+**Data & Computer Vision**
+- NumPy
+- Pandas
+- OpenCV
+- Matplotlib
+
+**AI & NLP**
+- Transformers
+- NLP
+- Deep Learning
+- Computer Vision
+- LLMs
+
+**Tools**
+- Git
+- GitHub
+- Jupyter Notebook
+
+---
+
+## ⭐ Featured Projects
+
+🔬 **AI Chest X-Ray Analysis System**  
+End-to-end medical computer vision pipeline using U-Net, ResNet and Grad-CAM.
+
+🧠 **NLP & Transformer Projects**  
+Projects exploring NLP, text classification and transformer-based models.
+
+🤖 **LLM & RAG Projects**  
+Exploring large language models, retrieval-augmented generation and agentic AI.
+
+---
+
+## 📫 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/rama-bawaaneh-1b130a400/)
